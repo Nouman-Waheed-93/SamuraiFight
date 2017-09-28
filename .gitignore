@@ -1,0 +1,26 @@
+Assembly-CSharp.csproj
+.vs/
+SamuraiFight.userprefs
+SamuraiFight.sln
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-Editor.csproj
+Temp/
+Library/
+obj/
+
+Assets/Audio/
+Assets/battleScenes/
+Assets/Character Pack/
+Assets/CrazyNitroxen/
+Assets/Fonts/
+Assets/material/
+Assets/Plugins/
+Assets/prefab/
+Assets/Quantum Theory/
+Assets/RAZ/
+Assets/SampleScenes/
+Assets/Skeleton - Animated and Low Polygon/
+Assets/Standard Assets/
+Assets/texture/
+Assets/Yurowm/
